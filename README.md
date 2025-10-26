@@ -3,6 +3,8 @@
 ## Description:
 The URL Research Assistant is an AI-powered web application built with Streamlit and LangChain that allows users to query multiple URLs in natural language and get precise answers along with source references. The system leverages OpenAI models for question answering and a FAISS vector store for retrieving relevant content from web pages, enabling a seamless multi-turn conversational experience.
 
+![App Screenshot](Output_UI.png)
+
 ### Key Features:
 
 Multi-URL Input: Users can provide one or more URLs to research.
